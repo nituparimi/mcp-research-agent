@@ -446,3 +446,7 @@ For issues and questions, please refer to the detailed documentation:
 - See `ARCHITECTURE.md` for technical deep-dive
 - See `SETUP_GUIDE.md` for detailed setup instructions
 - Check `mcp-server/` for LLM integration details
+
+## Demo link
+
+https://drive.google.com/file/d/1Tm3KsbtFhNTi2sPL0VfYxYI6VczGUVY5/view
